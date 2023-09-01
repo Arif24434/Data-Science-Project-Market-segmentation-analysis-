@@ -1,4 +1,4 @@
-# Data-Science-Project-Market-segmentation-analysis-
+# Data-Science-Project-Market-segmentation-analysis
 	An imaginary Bank (AFFLUENT BANK) has a large amount of data about their customers.
 	The marketing team at the bank wanted to launch a targeted ad marketing campaign by dividing their customers into at least three distinctive groups.
 	In this case study we are performing Data preparation, cleaning, an Exploratory Data Analysis, Data visualization (using, histogram, KDE plot etc.) and all necessary things to find insights from the Dataset.
